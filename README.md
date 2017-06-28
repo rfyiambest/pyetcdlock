@@ -24,7 +24,7 @@ redis:
 ### 安装方法
 
 ```
-git clone https://github.com/rfyiamcool/pyetcdlock.git
+git clone https://github.com/rfyiambest/pyetcdlock.git
 cd pyetcdlock
 python setup.py
 ```
